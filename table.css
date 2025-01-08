@@ -1,0 +1,25 @@
+.table {
+  width: 100%;
+}
+
+.descriptionHead {
+  font-weight: bold;
+}
+
+.nav:link,
+.nav:visited {
+  color: blue;
+}
+
+.nav:hover,
+.nav:active {
+  color: purple;
+}
+
+img {
+  width: 100%;
+}
+
+td {
+  border: 2px solid #c7c7c7;
+}
